@@ -33,8 +33,9 @@
                         </option>
                         <option name="values">
                           <map>
-                            <entry key="outputName" value="ic_star" />
-                            <entry key="sourceFile" value="C:\Users\Admin\AndroidStudioProjects\MyFirstApplication" />
+                            <entry key="assetSourceType" value="FILE" />
+                            <entry key="outputName" value="ship" />
+                            <entry key="sourceFile" value="C:\Users\Admin\AndroidStudioProjects\MyFirstApplication\ship.svg" />
                           </map>
                         </option>
                       </PersistentState>
